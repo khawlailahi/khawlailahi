@@ -1,4 +1,4 @@
-<img src='/Software Development Solutions (1).gif' width='100'>
+<img src='/Software Development Solutions (1).gif' width='1000'>
 
 
 <!---
